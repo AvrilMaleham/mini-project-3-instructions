@@ -4,7 +4,7 @@ For your third and final mini project, you will be converting the pizza website 
 
 ## You will need to think about:
 
-- Continue the good Git practices you have been using. Include a ReadMe, make use of branching, and don’t forget Git ignore.
+- Continue the good Git practices you have been using. Include a ReadMe, make use of branching, create meaningful commit messages, push to remote regularly, and don’t forget Git ignore.
 - For this project, we will still be using dummy data, so no need to create a database just yet.
 - Use the Bootstrap library for your components and notice how much smaller your CSS file becomes!
 - Use the Next.js API folder to create your endpoints. Start with a GET endpoint; all other endpoints are <b>optional</b>. Make use of `NextRequest` from next server and `Response` to get the new pizza orders. Don’t forget to export it using the name `GET`.
