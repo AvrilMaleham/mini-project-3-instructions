@@ -1,6 +1,6 @@
 # Next.js Web App
 
-For your third and final mini project, you will be converting the pizza website into Next JS!
+For your third and final mini project, you will be converting the pizza website into Next.js!
 
 ## You will need to think about:
 
